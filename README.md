@@ -1,4 +1,4 @@
-# nodejs
+# Node JS
 
 Install Software \
 Visual code
